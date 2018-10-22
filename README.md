@@ -1,4 +1,9 @@
 # ReadMe
+
+https://github.com/zyktojo/AmapSmoothMarker.git
+https://github.com/zuley/vue-gaode.git
+https://github.com/xoxleidu/vue-amap.git
+
 参数是一个个列出来的,
 但是springBoot支持后台接受entity ,
 但是用上面的配置会报出415 ,
